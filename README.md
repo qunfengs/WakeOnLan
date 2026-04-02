@@ -25,7 +25,7 @@
 
 ## 界面结构
 
-应用包含两个页签：
+应用包含两个页签。
 
 ### 主机列表
 
@@ -47,6 +47,10 @@
 - 开始扫描
 - 查看主机名、IP 地址、MAC 地址
 - 将选中设备加入主机列表
+
+## 界面预览
+
+![WakeOnLan 主界面](docs/main-window.png)
 
 ## 运行要求
 
@@ -107,6 +111,7 @@ JSON 数据模型包含以下字段：
 Forms/       WinForms 界面
 Models/      数据模型
 Services/    网络扫描、WOL、JSON 存储服务
+docs/        项目截图等文档资源
 Program.cs   程序入口
 ```
 
@@ -128,3 +133,7 @@ Program.cs   程序入口
 ```text
 IMPLEMENTATION_PLAN.md
 ```
+
+## License
+
+本项目采用 MIT License，详见 [LICENSE](LICENSE)。
