@@ -2,6 +2,8 @@
 
 一个基于 C#、WinForms 和 .NET 8 的局域网 Wake-on-LAN 桌面工具。
 
+当前版本：`0.9.0`
+
 ## 项目简介
 
 本工具面向 Windows 桌面环境，提供一个轻量、直接、适合内部使用的 Wake-on-LAN 管理界面。
@@ -58,6 +60,10 @@
 - 已安装 .NET 8 SDK 或 .NET 8 Desktop Runtime
 - 目标设备已正确启用 Wake-on-LAN
 - 目标设备与当前电脑位于同一局域网
+
+## 下载发布版
+
+可直接在 GitHub Releases 下载 `v0.9.0` 的 Windows 单文件可执行版。
 
 ## 构建方式
 
